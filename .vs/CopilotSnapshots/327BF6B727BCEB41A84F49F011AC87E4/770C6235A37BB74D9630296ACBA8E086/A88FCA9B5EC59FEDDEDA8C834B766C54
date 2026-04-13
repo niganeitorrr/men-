@@ -1,0 +1,74 @@
+﻿using System;  //importa herramientas basicas para usar consola
+
+partial class Program  //define el programa principal
+{
+    static void Main(string[]args)                   
+
+    {
+        int opcion = 0; //variable donde se guarda la opcion del usuario
+
+        //este ciclo repite el menú hasta que el usuario elija 4 (salir)
+        while (opcion !=4) 
+        {
+            Console.Clear(); //limpia la pantalla
+
+            //Muestra el menú
+            Console.WriteLine("=== MENU PRINCIPAL ===");
+            Console.WriteLine("=== 1. ingresa nombre y edad ===");
+            Console.WriteLine("=== 2. tabla de multiplicar del 1 al 12 ===");
+            Console.WriteLine("=== 3. hola mundo ===");
+            Console.WriteLine("=== 4. salir ===");
+
+            Console.WriteLine("seleccione una opción: "); //pide una opción
+
+            //intenta escribir lo que el usuario escribe a numero
+            //si no puede (porque escribió letras), entra al if
+            
+            if(int.TryParse(Console.ReadLine(), out opcion)) 
+            {
+                Console.WriteLine("Error: debes ingresar un número.");//mensaje de error
+                Console.WriteLine("presiona una tecla para continuar...");
+                Console.ReadKey(); //pausa
+                continue; //regresa al menú de incio
+            }
+            //decide que hacer dependiendo de la opción
+
+            switch (opcion) 
+            {
+                case 1:
+                    opcionnombreyedad();//llama a la funcion de nombre y edad
+                    break;
+
+                case 2:
+                    tablademultiplicar();//llama a la funcion de tabla
+                    break;
+
+                case 3:
+                    holamundo();//llama a la funcion hola mundo
+                    break;
+               
+                case 4:
+                    Console.WriteLine("saliendo del programa...");//mesnaje de salida
+                    break;
+
+                    default:
+                    //si el usuario pone un numero que no esta en el menú
+                    Console.WriteLine("opcion no válida");
+                    Console.WriteLine("presiona una tecla para continuar...");
+                    Console.ReadKey ();//pausa
+                    break;
+
+            }
+}       
+ }
+}
+// ============= OPCION 1 =====================
+static void opcionnombreyedad()
+{
+  Console.Clear(); //limpia la pantalla
+
+    Console.Write("escribe tu nombre: ");
+    string nombre = Console.ReadLine(); 
+}
+
+

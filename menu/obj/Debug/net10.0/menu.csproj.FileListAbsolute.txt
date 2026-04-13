@@ -1,0 +1,14 @@
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.AssemblyInfoInputs.cache
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.AssemblyInfo.cs
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\bin\Debug\net10.0\menu.exe
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\bin\Debug\net10.0\menu.deps.json
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\bin\Debug\net10.0\menu.runtimeconfig.json
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\bin\Debug\net10.0\menu.dll
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\bin\Debug\net10.0\menu.pdb
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.dll
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\refint\menu.dll
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.pdb
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\menu.genruntimeconfig.cache
+E:\ESCRITORIO\RPOYECTOS DEV\Proyectos_Perosnales\menu\menu\obj\Debug\net10.0\ref\menu.dll
